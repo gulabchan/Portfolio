@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.71bcf0a2.css",
+    "main.js": "/Portfolio/static/js/main.4a369e92.js",
+    "static/media/hero.jpg": "/Portfolio/static/media/hero.49ecbc1b39a5b38a0db9.jpg",
+    "static/media/Text-Editor-logo.jpg": "/Portfolio/static/media/Text-Editor-logo.784541d3c2a70bff6fef.jpg",
+    "static/media/Skills.jpg": "/Portfolio/static/media/Skills.cdbf2c00503958028347.jpg",
+    "static/media/Recipe-Finder-Logo.jpg": "/Portfolio/static/media/Recipe-Finder-Logo.282fc71721b994610dc4.jpg",
+    "static/media/about.jpg": "/Portfolio/static/media/about.2621f6fcf0b917cc2ac3.jpg",
+    "static/media/Weather-App-Logo.jpg": "/Portfolio/static/media/Weather-App-Logo.897b28f77fd1d81c825a.jpg",
+    "static/media/IMDB logo.jpg": "/Portfolio/static/media/IMDB logo.c99146d8d34b7de062f9.jpg",
+    "static/media/Protfolio-logo.jpg": "/Portfolio/static/media/Protfolio-logo.58c57cbf7f5b6f14d3c8.jpg",
+    "static/media/contact us.jpg": "/Portfolio/static/media/contact us.4ac48babdf8078d9ae31.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.71bcf0a2.css.map": "/Portfolio/static/css/main.71bcf0a2.css.map",
+    "main.4a369e92.js.map": "/Portfolio/static/js/main.4a369e92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71bcf0a2.css",
+    "static/js/main.4a369e92.js"
+  ]
+}
