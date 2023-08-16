@@ -34,7 +34,7 @@ const About = () => {
               B-tech Computer Science and Enginering.
             </h3>
             <h3 className="vertical-timeline-element-title" >
-            Total CGPA : 7.60
+            Total CGPA : 7.47
             </h3>
          
             <p> Graduation</p>
@@ -84,10 +84,6 @@ const About = () => {
             72.06%
             </h3>
             <br />
-            {/* <h3 className="vertical-timeline-element-title" >
-              Annasaheb Magar Junior College
-            </h3> */}
-            {/* <p>High School</p> */}
           </VerticalTimelineElement>
 
         </VerticalTimeline>
@@ -101,7 +97,7 @@ const About = () => {
           <div className='paragraph'>
             <p>
             I am a passionate coder who loves to learn and explore various programming languages. I love learning new technologies and
-            frameworks and create something unique out of itJ'm strongly focused, hardworking and utilizes my skills at best to
+            frameworks and create something unique out of it I strongly focused, hardworking and utilizes my skills at best to
             contribute growth of the different organizations and develop more skills in a productive enviroment.
             </p>
           </div>

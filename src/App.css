@@ -5,6 +5,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Poppins", serif;
 }
 
 html {
@@ -12,12 +13,14 @@ html {
     font-family: "Poppins", serif;
 }
 body{
-    min-height: 130vh;
-    background-color:lightskyblue
-    /* background-origin: border-box; */
+    min-height: 100vh;
+    background-color:lightskyblue;
+
 }
 li{
     list-style-type: none;
+
+    
 }
 .text-center{
     text-align: center;
